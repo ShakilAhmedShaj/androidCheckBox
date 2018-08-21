@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">androidCheckBox</string>
+    <string name="question">Which Book Do You Want?</string>
+    <string name="physics_text">Physics</string>
+    <string name="chemistry_Text">Chemistry</string>
+    <string name="CSE_text">CSE</string>
+    <string name="buttonText">SHOW</string>
+</resources>
